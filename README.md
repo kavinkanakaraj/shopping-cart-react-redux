@@ -1,6 +1,6 @@
 # Redux Shopping Cart
 
-### [Demo Link](https://reduxtoolkit-shop-cart.netlify.app/) 🔗
+### [Demo Link]( https://kavinkanakaraj.github.io/shopping-cart-react-redux/) 🔗
 
 **Shopping Cart Project** built with **React** + **Redux-Toolkit**.
 
